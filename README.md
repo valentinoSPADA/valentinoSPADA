@@ -1,5 +1,7 @@
-##  I am Valentino Spada
-#### I am Full Stack Web Developer
+##  Hi there!👋 My name is Valentino Spada 😎
+#### I am Full Stack Web Developer 💻
+
+<img src="https://as2.ftcdn.net/v2/jpg/02/55/73/15/1000_F_255731595_eG8ZerN19GVsoXqnqaExufXIiWmfDcih.jpg" style="width:20%; margin-right:0;"/>
 
 ```javascript
       const Valentino = {
@@ -9,7 +11,7 @@
       }
  ```
  
-I am a full stack developer, but I am in love especialy with the front end development. I made soyHenry's bootcamp and I just fell in love with programming.
+I am a full stack developer, but I am in love especially with the front end development 🎨. I made soyHenry's bootcamp and I just fell in love with programming.
 The tecnologies I enjoy working are JavaScript, CSS, HTML, NodeJS, Sequalize, Postgres, Redux and my favorites are React and React-Redux
 
 
