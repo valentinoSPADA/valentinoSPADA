@@ -14,7 +14,7 @@ The tecnologies I enjoy working are JavaScript, CSS, HTML, NodeJS, Sequalize, Po
 
 
 
-- 🔭 I’m currently working on my PI in soyHenry's bootcamp 
+- 🔭 I’m currently working on my IP in soyHenry's bootcamp 
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/valentinospada/) 
 
 
