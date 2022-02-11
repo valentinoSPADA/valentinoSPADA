@@ -29,7 +29,7 @@ The tecnologies I enjoy working are JavaScript, CSS, HTML, NodeJS, Sequalize, Po
 
 <hr/>
 
-<em><b>I love listening music a lot</b> so if you want to share your <b>playlist</b> or <b>favourites songs<b/>, I'll be happy to listen! :)</em>
+<em><b>I love listening music a lot</b> so if you want to share your <b>playlist</b> or <b>favourites songs<b/>, I'll be happy to listen it! :)</em>
 
 
 ![GitHub Dark](https://github.com/github-dark.png#gh-light-mode-only)
