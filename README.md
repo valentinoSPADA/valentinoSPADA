@@ -6,7 +6,6 @@
 [![Twitter: valenspadacavs](https://img.shields.io/twitter/follow/valenspadacavs?style=social)](https://twitter.com/valenspadacavs)
 [![Linkedin: valentinospada](https://img.shields.io/badge/-valentinospada-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valentinospada/)](https://www.linkedin.com/in/valentinospada/)
 
-
  
 I am a full stack developer, but I am in love especially with the front end development 🎨. I made soyHenry's bootcamp and I just fell in love with programming.
 The tecnologies I enjoy working are JavaScript, CSS, HTML, NodeJS, Sequalize, PostgreSQL, Redux and my favourites are React and React-Redux
