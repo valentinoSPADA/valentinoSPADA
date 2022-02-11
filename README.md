@@ -14,7 +14,7 @@ The tecnologies I enjoy working are JavaScript, CSS, HTML, NodeJS, Sequalize, Po
 
 ```javascript
       const Valentino = {
-          skills: ['JavaScript', 'CSS', 'HTML', 'NodeJS', 'Sequelize', 'Postgres', 'Redux', 'React', 'React-Redux'],
+          skills: ['JavaScript', 'CSS', 'HTML', 'NodeJS', 'Sequelize', 'PostgreSQL', 'Redux', 'React', 'React-Redux'],
           workingOn: 'soyHenry's Individual Proyect',
           hobbies: ['produce music', 'play Handball', 'play online-videogames']     
       }
