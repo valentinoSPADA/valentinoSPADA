@@ -3,7 +3,6 @@
 ##  Hi there!👋 My name is Valentino Spada 😎
 #### I am Full Stack Web Developer 💻
 
-[![Twitter: valenspadacavs](https://img.shields.io/twitter/follow/valenspadacavs?style=social)](https://twitter.com/valenspadacavs)
 [![Linkedin: valentinospada](https://img.shields.io/badge/-valentinospada-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valentinospada/)](https://www.linkedin.com/in/valentinospada/)
 
  
