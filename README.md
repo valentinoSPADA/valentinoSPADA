@@ -16,7 +16,7 @@ The tecnologies I enjoy working are JavaScript, CSS, HTML, NodeJS, Sequalize, Po
 
       const Valentino = {
           skills: ['JavaScript', 'CSS', 'HTML', 'NodeJS', 'Sequelize', 'PostgreSQL', 'Redux', 'React', 'React-Redux', 'React-native', 'bootstrap', 'ChakraUI', 'StyledComponents'],
-          Proyects: 'Soy henry´s PI - VideoGames SPA(SinglePageApplication)'
+          Proyects: 'Soy henry´s PI - VideoGames SPA(SinglePageApplication)',
           workingOn: 'soyHenry´s Final Proyect',
           hobbies: ['produce music', 'play Handball', 'play online-videogames']     
       }
@@ -25,6 +25,7 @@ The tecnologies I enjoy working are JavaScript, CSS, HTML, NodeJS, Sequalize, Po
 
 - 🔭 I’m currently working on my IP in soyHenry's bootcamp 
 - 📫 How to reach me: valenspada@hotmail.com 
+- 📲 My phone number (Argentina): (+54) 9 11 3234 3410
 
 <hr/>
 
