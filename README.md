@@ -23,7 +23,7 @@ The tecnologies I enjoy working are JavaScript, CSS, HTML, NodeJS, Sequalize, Po
  ```
 <br/>
 
-- 🔭 I’m currently working on my IP in soyHenry's bootcamp 
+- 🔭 I’m currently working on my final-proyect in soyHenry's bootcamp
 - 📫 How to reach me: valenspada@hotmail.com 
 - 📲 My phone number (Argentina): (+54) 9 11 3234 3410
 
