@@ -5,8 +5,11 @@
 [![Linkedin: valentinospada](https://img.shields.io/badge/-valentinospada-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valentinospada/)](https://www.linkedin.com/in/valentinospada/)
 
  
-I am a full stack developer, but I am in love especially with the front end development 🎨. I made soyHenry's bootcamp and I just fell in love with programming.
-The tecnologies I enjoy working are JavaScript, CSS, HTML, NodeJS, Sequalize, PostgreSQL, React-native, ChakraUI, Framer Motion, Bootstrap, Styled-component Redux and my favourites are React and React-Redux
+I recently finished studying Full-Stack Web Development at "Soy Herny"
+institute and I am eager to get my first full-time assignment as a software
+developer.
+I consider myself a person with creative skills, a pro-activity attitude, always
+open to transformations, and a very amiable person. I especially prefer the front end development 🎨👨🏻‍🎨
 <br/>
 <br/>
 
