@@ -1,4 +1,3 @@
-<img align='right' src="https://i.ibb.co/8MBxypB/emojii.png" style="width:25%;"/>
 
 ##  Hi there!👋 My name is Valentino Spada 😎
 #### I am Full Stack Web Developer 💻
@@ -11,16 +10,34 @@ The tecnologies I enjoy working are JavaScript, CSS, HTML, NodeJS, Sequalize, Po
 <br/>
 <br/>
 
+<img align='right' src="https://i.ibb.co/8MBxypB/emojii.png" style="width:25%;"/>
 
-```javascript
+<h3>Lenguages:</h3>
+ 
+  - JavaScript
+  - CSS
+  - HTML
+  - TypeScript
+ 
+ <h3>Tech Skills:</h3>
+NodeJS - Sequelize - PostgreSQL - Redux - React - React-Redux
 
-      const Valentino = {
-          skills: ['JavaScript', 'CSS', 'HTML', 'NodeJS', 'Sequelize', 'PostgreSQL', 'Redux', 'React', 'React-Redux', 'React-native', 'bootstrap', 'ChakraUI', 'StyledComponents'],
-          Proyects: [{PI:'VideoGames SPA(SinglePageApplication)'},{PF:'BeefShop E-Commerce SPA(SinglePageApplication)'}],
-          workingOn: 'soyHenry´s Final Proyect',
-          hobbies: ['produce music', 'play Handball', 'play online-videogames']     
-      }
- ```
+React-native - bootstrap - ChakraUI - StyledComponents
+  
+          
+<h2>Proyects</h2> 
+<ul>
+ <li>PI:'VideoGames SPA(SinglePageApplication)</li>
+ <li>PF:<a href="https://beefshop.vercel.app/">'BeefShop E-Commerce</a> SPA(SinglePageApplication)</li>
+ </ul>
+
+
+<h3>hobbies</h3> 
+ produce music, play Handball, play online-videogames  
+
+
+
+<br/>
 <br/>
 
 - 🔭 I’m currently working on my final-proyect in soyHenry's bootcamp
