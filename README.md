@@ -1,4 +1,4 @@
-<img align='right' src="https://i.ibb.co/qYn4zhS/programmer-coding-laptop-computer-work-desk-vector-illustration-cartoon-flat-freelancer-sitting-work.png" style="width:33%;"/>
+<img align='right' src="https://i.ibb.co/8MBxypB/emojii.png" style="width:25%;"/>
 
 ##  Hi there!👋 My name is Valentino Spada 😎
 #### I am Full Stack Web Developer 💻
