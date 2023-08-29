@@ -1,15 +1,13 @@
 
 ##  Hi there!👋 My name is Valentino Spada 😎
-#### I am Full Stack Web Developer 💻
+#### I am Front End Developer 💻
 
 [![Linkedin: valentinospada](https://img.shields.io/badge/-valentinospada-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valentinospada/)](https://www.linkedin.com/in/valentinospada/)
 
  
-I recently finished studying Full-Stack Web Development at "Soy Herny"
-institute and I am eager to get my first full-time assignment as a software
-developer.
+Front end dev since 2021, working for Primary SA, an important software factory in Argentina, making software for Brokers from Argentina and Uruguay.
 I consider myself a person with creative skills, a pro-activity attitude, always
-open to transformations, and a very amiable person. I especially prefer the front end development 🎨👨🏻‍🎨
+open to transformations, and a very amiable person. 🎨👨🏻‍🎨
 <br/>
 <br/>
 
@@ -18,23 +16,20 @@ open to transformations, and a very amiable person. I especially prefer the fron
 <h3>Lenguages:</h3>
  
   - JavaScript
+  - TypeScript
   - CSS
   - HTML
-  - TypeScript
+  - Python
+ 
  
  <h3>Tech Skills:</h3>
-NodeJS - Sequelize - PostgreSQL - Redux - React - React-Redux
+React - Redux - MobX - Angular - Astro - AntDesign
 
-React-native - bootstrap - ChakraUI - StyledComponents
+bootstrap - ChakraUI - StyledComponents - MaterialUI
+
+FramerMotion - MySql - NodeJS - Sequelize - PostgreSQL
   
           
-<h2>Proyects</h2> 
-<ul>
- <li>PI:'VideoGames SPA(SinglePageApplication)</li>
- <li>PF:<a href="https://beefshop.vercel.app/">'BeefShop E-Commerce</a> SPA(SinglePageApplication)</li>
- </ul>
-
-
 <h3>hobbies</h3> 
  produce music, play Handball, play online-videogames  
 
@@ -43,9 +38,7 @@ React-native - bootstrap - ChakraUI - StyledComponents
 <br/>
 <br/>
 
-- 🔭 I’m currently working on my final-proyect in soyHenry's bootcamp
 - 📫 How to reach me: valenspada@hotmail.com 
-- 📲 My phone number (Argentina): (+54) 9 11 3234 3410
 
 <hr/>
 
